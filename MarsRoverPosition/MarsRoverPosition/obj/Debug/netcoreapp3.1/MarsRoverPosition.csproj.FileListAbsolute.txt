@@ -1,0 +1,11 @@
+F:\Visual_Studio_C#\Projects\OOP_HW1\MarsRoverPosition\MarsRoverPosition\bin\Debug\netcoreapp3.1\MarsRoverPosition.exe
+F:\Visual_Studio_C#\Projects\OOP_HW1\MarsRoverPosition\MarsRoverPosition\bin\Debug\netcoreapp3.1\MarsRoverPosition.deps.json
+F:\Visual_Studio_C#\Projects\OOP_HW1\MarsRoverPosition\MarsRoverPosition\bin\Debug\netcoreapp3.1\MarsRoverPosition.runtimeconfig.json
+F:\Visual_Studio_C#\Projects\OOP_HW1\MarsRoverPosition\MarsRoverPosition\bin\Debug\netcoreapp3.1\MarsRoverPosition.runtimeconfig.dev.json
+F:\Visual_Studio_C#\Projects\OOP_HW1\MarsRoverPosition\MarsRoverPosition\bin\Debug\netcoreapp3.1\MarsRoverPosition.dll
+F:\Visual_Studio_C#\Projects\OOP_HW1\MarsRoverPosition\MarsRoverPosition\bin\Debug\netcoreapp3.1\MarsRoverPosition.pdb
+F:\Visual_Studio_C#\Projects\OOP_HW1\MarsRoverPosition\MarsRoverPosition\obj\Debug\netcoreapp3.1\MarsRoverPosition.csprojAssemblyReference.cache
+F:\Visual_Studio_C#\Projects\OOP_HW1\MarsRoverPosition\MarsRoverPosition\obj\Debug\netcoreapp3.1\MarsRoverPosition.AssemblyInfoInputs.cache
+F:\Visual_Studio_C#\Projects\OOP_HW1\MarsRoverPosition\MarsRoverPosition\obj\Debug\netcoreapp3.1\MarsRoverPosition.AssemblyInfo.cs
+F:\Visual_Studio_C#\Projects\OOP_HW1\MarsRoverPosition\MarsRoverPosition\obj\Debug\netcoreapp3.1\MarsRoverPosition.dll
+F:\Visual_Studio_C#\Projects\OOP_HW1\MarsRoverPosition\MarsRoverPosition\obj\Debug\netcoreapp3.1\MarsRoverPosition.pdb
